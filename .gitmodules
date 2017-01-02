@@ -4,3 +4,6 @@
 [submodule "wkhtmltopdf"]
 	path = wkhtmltopdf
 	url = git@github.com:docker-commands/wkhtmltopdf.git
+[submodule "wkhtmltoimage"]
+	path = wkhtmltoimage
+	url = git@github.com:docker-commands/wkhtmltoimage.git
