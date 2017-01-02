@@ -1,3 +1,6 @@
 [submodule "base"]
 	path = base
 	url = git@github.com:docker-commands/base.git
+[submodule "wkhtmltopdf"]
+	path = wkhtmltopdf
+	url = git@github.com:docker-commands/wkhtmltopdf.git
