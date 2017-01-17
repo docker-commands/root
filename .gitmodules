@@ -7,3 +7,6 @@
 [submodule "wkhtmltoimage"]
 	path = wkhtmltoimage
 	url = git@github.com:docker-commands/wkhtmltoimage.git
+[submodule "the-enforcer"]
+	path = the-enforcer
+	url = git@github.com:docker-commands/the-enforcer.git

@@ -11,4 +11,5 @@ docker run --rm commands/docker-search TERM
 
 |command|version|
 |commands/docker-tag-search|1.0.0|
-- commands/base
+|commands/base|0.8.13|
+|commands/the-enforcer|0.8.13|
