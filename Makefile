@@ -10,7 +10,7 @@ skelton:
 	echo "FROM busybox" > $(NAME)/Dockerfile
 	echo "COPY $(NAME).sh /$(NAME)" >> $(NAME)/Dockerfile
 	echo "RUN chmod +x /$(NAME)" >> $(NAME)/Dockerfile
-	echo "ENDPOINT [\"/$(NAME)\"]" >> $(NAME)/Dockerfile
+	echo "ENTRYPOINT [\"/$(NAME)\"]" >> $(NAME)/Dockerfile
 	echo "CMD ["-h"]" >> $(NAME)/Dockerfile
 	echo "- commands/$(NAME)" >> README.md
 .PUNNY: skelton

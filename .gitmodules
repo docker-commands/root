@@ -10,3 +10,7 @@
 [submodule "the-enforcer"]
 	path = the-enforcer
 	url = git@github.com:docker-commands/the-enforcer.git
+[submodule "graphout"]
+	path = graphout
+	url = git@github.com:docker-commands/graphout.git
+
