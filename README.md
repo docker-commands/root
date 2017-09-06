@@ -13,4 +13,5 @@ docker run --rm commands/docker-search TERM
 |commands/docker-tag-search|1.0.0|
 |commands/base|0.8.13|
 |commands/the-enforcer|0.8.13|
-- commands/graphout
+|commands/graphout||
+|commands/headless-chrome|59|

@@ -14,3 +14,6 @@
 [submodule "graphout"]
 	path = graphout
 	url = git@github.com:docker-commands/graphout.git
+[submodule "headless-chrome"]
+	path = headless-chrome
+	url = git@github.com:docker-commands/headless-chrome.git
